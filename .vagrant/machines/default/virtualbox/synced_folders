@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Carlos/Documents/CLOT/ASIX2/M14/UF2/projectes/gp2f4a6.3/gp2f4/codi","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Carlos/Documents/CLOT/ASIX2/M14/UF2/projectes/gp2f4a6.3/gp2f4","disabled":false,"__vagrantfile":true}}}
